@@ -4,3 +4,6 @@ profile_default/
 ipython_config.py
 venv/
 .idea/
+
+studentInfo.csv
+studentVle.csv
