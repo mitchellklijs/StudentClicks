@@ -6,4 +6,9 @@ venv/
 .idea/
 
 studentInfo.csv
+studentInfoTrain.csv
+studentInfoTest.csv
+
 studentVle.csv
+studentVleTrain.csv
+studentVleTest.csv
