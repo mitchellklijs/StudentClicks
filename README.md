@@ -1,6 +1,6 @@
 # Will they fail?
-## Temporality-focused Analysis of Classification Algorithmsregarding Student Retention Prediction
+## Temporality-focused Analysis of Classification Algorithms regarding Student Retention Prediction.
 
-Group 7: Hessel Laman, Joren Wouters, Mitchell Klijs & Nathan van Gelderen.
+TFL Group 7: Hessel Laman, Joren Wouters, Mitchell Klijs & Nathan van Gelderen.
 
-Code written by Nathan and Mitchell.
+  Code written by Nathan and Mitchell.
